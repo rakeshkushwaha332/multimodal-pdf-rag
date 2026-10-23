@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables (API Keys)
+.env
+
+# Vector Database Local Cache
+chroma_db/
+*.chromadb
+
+# Python Cache & OS Junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
