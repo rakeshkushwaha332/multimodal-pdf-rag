@@ -7,6 +7,7 @@ The project extracts text, HTML tables, and Base64-encoded image payloads using 
 ---
 
 ## 🏗️ Architecture Overview
+<img width="1024" height="317" alt="image" src="https://github.com/user-attachments/assets/fd6e8ec6-5314-4912-8fcd-b35fa7313461" />
 
 ### 1. Document Partitioning
 **Technology:** `unstructured`
